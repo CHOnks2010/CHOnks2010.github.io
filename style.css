@@ -7,7 +7,7 @@ p.oblique {
   font-style: oblique;
 }
 
-.p1 {
+p1 {
   font-family: "Times New Roman", Times, serif;
 }
 
@@ -17,4 +17,12 @@ color: IndianRed;
 font-size: 36px;
 text-decoration: underline;
 
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
 }
