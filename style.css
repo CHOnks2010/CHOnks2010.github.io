@@ -3,11 +3,7 @@ body {
   color: black;
 }
 
-p.oblique {
-  font-style: oblique;
-}
-
-p1 {
+.p1 {
   font-family: "Times New Roman", Times, serif;
 }
 
