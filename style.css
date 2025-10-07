@@ -1,5 +1,20 @@
+body {
+  background-color: beige;
+  color: black;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
 h1 {
 color: IndianRed;
 font-size: 36px;
 text-decoration: underline;
+
 }
