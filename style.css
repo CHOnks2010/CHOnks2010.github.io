@@ -1,7 +1,12 @@
-body {
+
+
+ /* body {
   background-color: beige;
   color: black;
-}
+} 
+ This changes the color of my website 
+
+
 
 .p1 {
   font-family: "Times New Roman", Times, serif;
@@ -21,15 +26,6 @@ h1 {
 
 h2 {
   text-align: left;
-}
+} */
 
 
-/*
-h1{
-  color: purple;
-}
-
-/*
-.name{
-  color: purple;
-}
