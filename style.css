@@ -34,8 +34,8 @@ h2 {
 }
 
 .question{
-    color: blue;
-    border: 36px;
  border-style: dashed;
  border-color: blueviolet;
+ color: blue;
+ border: 36px;
 }
