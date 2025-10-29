@@ -11,6 +11,40 @@
     <li><a href="lesson2.html">Page 3</a></li>
     </ul>
   </nav>
+    <style>
+    body{
+   margin: 0;
+   padding: 0;
+  }
+  ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #333;
+   position: fixed;
+   top: 0;
+   width: 100%;
+  }
+  ul li{
+   float: left;
+  }
+  ul li a{
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   
+  }
+  ul li a:hover:not(.active){
+   background-color: #111;
+   font-size: larger;
+  }
+  ul li a.active{
+   background-color: #04aa6d;
+  }
+ </style>
      <h1>My heading is the LARGEST heading</h1>
     <h6>My heading is the smollest heading</h6>
     <p>If one commits a change yet makes no visible change, did one make a change or did one make a change? if one did make that change, did one think about the change or not?</p>
